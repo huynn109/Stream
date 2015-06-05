@@ -1,0 +1,92 @@
+<resources>
+    <string name="app_name">Streaming Demo</string>
+    <string name="action_settings">Cài đặt</string>
+    <string name="action_search">Tìm kiếm</string>
+    <string name="drawer_open">Mở</string>
+    <string name="drawer_close">Đóng</string>
+
+    <string name="nav_item_home">Trang chủ</string>
+    <string name="nav_item_stream">Stream</string>
+    <string name="nav_item_chat">Chat</string>
+    <string name="nav_item_clip">Clip</string>
+    <string name="nav_item_friends">Danh sách bạn</string>
+    <string name="nav_item_notifications">Tin nhắn</string>
+    <string name="nav_item_stranger_chat">Chat với người lạ</string>
+    <string name="nav_item_logout">Đăng xuất</string>
+
+    <!-- navigation drawer item labels  -->
+    <string-array name="nav_drawer_labels">
+        <item>@string/nav_item_home</item>
+        <item>@string/nav_item_stream</item>
+        <item>@string/nav_item_chat</item>
+        <item>@string/nav_item_clip</item>
+        <item>@string/nav_item_friends</item>
+        <item>@string/nav_item_notifications</item>
+        <item>@string/nav_item_stranger_chat</item>
+        <item>@string/nav_item_logout</item>
+    </string-array>
+
+    <string name="title_messages">Tin nhắn</string>
+    <string name="title_friends">Danh sách bạn</string>
+    <string name="title_home">Trang chủ</string>
+    <string name="title_stream">Stream</string>
+    <string name="title_stranger_chat">Chat với người lạ</string>
+
+    <string name="title_activity_login">Đăng nhập</string>
+    <!-- Main activity -->
+    <string name="msg_error_logout">Lỗi đăng xuất</string>
+    <!-- Login page -->
+    <string name="hint_phone">Số điện thoại</string>
+    <string name="hint_password">Mật khẩu</string>
+    <string name="hint_name">Tên đầy đủ</string>
+    <string name="btn_login">Đăng nhập</string>
+    <string name="btn_register">Đăng ký</string>
+    <string name="btn_link_to_register">Tạo tài khoản</string>
+    <string name="btn_link_to_login">Tài khoản đã tạo</string>
+    <string name="welcome">Chào mừng</string>
+    <string name="btn_logout">Thoát</string>
+    <string name="name">Tên</string>
+    <string name="error_msg">Sai tên đăng nhập hoặc mật khẩu</string>
+    <string name="required_msg">Vui lòng nhập đầy đủ thông tin</string>
+    <string name="btn_touch_refresh">Thử lại</string>
+
+    <!-- Vitamio -->
+    <string name="res_audio">phát video từ nguồn</string>
+
+    <!-- Home fragment -->
+    <string name="btn_send">Gửi</string>
+    <string name="hint_chat">Nhập tin nhắn</string>
+    <string name="tv_name">Hệ thống</string>
+    <string name="list_row_room">Phòng</string>
+    <string name="list_row_watching">Đang xem</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="btn_refresh">Thử lại</string>
+    <string name="hello_blank_fragment">Xin chào</string>
+    <string name="title_activity_stream">Stream</string>
+
+    <string name="hello_world">Xin chào!</string>
+    <string name="title_activity_stream_full">Live</string>
+
+    <string name="title_activity_stream_fullscreen">Live</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <!-- messages -->
+    <string name="message_welcome">Đã kết nối tới máy chủ</string>
+    <plurals name="message_participants">
+        <item quantity="one">Có %d tham gia</item>
+        <item quantity="other">Có %d tham gia</item>
+    </plurals>
+    <string name="message_user_joined">%s đã vào phòng. Chào hỏi nhau đi</string>
+    <string name="message_user_left">%s đã khời khỏi phòng</string>
+    <string name="user_action_typing">đang nhập</string>
+    <string name="error_connect">Lỗi kết nối đến máy chủ</string>
+    <string name="stranger">Người lạ</string>
+    <string name="you">Bạn</string>
+    <string name="search_stranger">Tìm kiếm người lạ</string>
+
+    <!-- Clip fragment -->
+    <string name="count_view">lượt xem</string>
+    <string name="category">Thể loại</string>
+</resources>

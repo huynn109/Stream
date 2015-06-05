@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\huyuit\Android\workspace\Streaming\app\build\intermediates\exploded-aar\com.github.manuelpeinado.fadingactionbar\fadingactionbar\3.1.2\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1db28e119b406a5fe367b63fb1be083d5dfe298a">
+        <dex dex="D:\huyuit\Android\workspace\Streaming\app\build\intermediates\pre-dexed\debug\classes-a41768b5c473dc5b2373a105793e8361696ece1f.jar" />
+    </item>
+    <item
+        jar="D:\huyuit\Android\workspace\Streaming\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="D:\huyuit\Android\workspace\Streaming\app\build\intermediates\pre-dexed\debug\classes-928fcd657823e2fb051262603363f9bd01c49357.jar" />
+    </item>
+    <item
+        jar="C:\Users\Doanh\.gradle\caches\modules-2\files-2.1\com.github.nkzawa\engine.io-client\0.5.0\72f54ba32a0d735630ebc33a5c39e14a5dd45492\engine.io-client-0.5.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="72f54ba32a0d735630ebc33a5c39e14a5dd45492">
+        <dex dex="D:\huyuit\Android\workspace\Streaming\app\build\intermediates\pre-dexed\debug\engine.io-client-0.5.0-5cf2e8fde1ab72093c4961c5dcaa61c2884bf7e6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Doanh\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.3.0\2e7bc7033dc2c8423e661224171b3133fb155b28\okhttp-2.3.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2e7bc7033dc2c8423e661224171b3133fb155b28">
+        <dex dex="D:\huyuit\Android\workspace\Streaming\app\build\intermediates\pre-dexed\debug\okhttp-2.3.0-5b3f1debad667b607dbd307cebf95f8dcc4a8168.jar" />
+    </item>
+    <item
+        jar="C:\Users\Doanh\.gradle\caches\modules-2\files-2.1\org.immutables\gson\2.0.11\711b08d636ea7398197316580dca2e4047733687\gson-2.0.11.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="711b08d636ea7398197316580dca2e4047733687">
+        <dex dex="D:\huyuit\Android\workspace\Streaming\app\build\intermediates\pre-dexed\debug\gson-2.0.11-46ff05c2b72eee9586c8234784b1f277f2c2bc68.jar" />
+    </item>
+    <item
+        jar="C:\Users\Doanh\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp-ws\2.3.0\7896d229b6aa7884552ab9c23de54c7eb0de8203\okhttp-ws-2.3.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7896d229b6aa7884552ab9c23de54c7eb0de8203">
+        <dex dex="D:\huyuit\Android\workspace\Streaming\app\build\intermediates\pre-dexed\debug\okhttp-ws-2.3.0-1485d672fa3b240780e4f0934ee8b6ddfe92cddf.jar" />
+    </item>
+    <item
+        jar="D:\huyuit\Android\workspace\Streaming\app\build\intermediates\exploded-aar\com.github.rahatarmanahmed\circularprogressview\2.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="bddb42ad2f606eacb8abba1563ec0acfc6093103">
+        <dex dex="D:\huyuit\Android\workspace\Streaming\app\build\intermediates\pre-dexed\debug\classes-7e38c3dbf168361c5605106ac505a5b2a523765b.jar" />
+    </item>
+    <item
+        jar="D:\huyuit\Android\workspace\Streaming\app\build\intermediates\exploded-aar\com.rengwuxian.materialedittext\library\2.1.3\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d5ae30ab253dafcf501f0855645b0e72b8a5d47a">
+        <dex dex="D:\huyuit\Android\workspace\Streaming\app\build\intermediates\pre-dexed\debug\classes-0c4114776a0db7addba618b03738cac7b153e917.jar" />
+    </item>
+    <item
+        jar="C:\Users\Doanh\.gradle\caches\modules-2\files-2.1\com.github.nkzawa\socket.io-client\0.5.0\7d40c590385ba95b34920eb89c986757a79968af\socket.io-client-0.5.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7d40c590385ba95b34920eb89c986757a79968af">
+        <dex dex="D:\huyuit\Android\workspace\Streaming\app\build\intermediates\pre-dexed\debug\socket.io-client-0.5.0-938cd42843e4e63ef4b2b8b251deb455d8332896.jar" />
+    </item>
+    <item
+        jar="C:\Users\Doanh\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="D:\huyuit\Android\workspace\Streaming\app\build\intermediates\pre-dexed\debug\gson-2.3.1-b1e23a55abdec174da5aa2247878d159e2eeb7d4.jar" />
+    </item>
+    <item
+        jar="D:\huyuit\Android\workspace\Streaming\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e0b0c35d02308b270015a74cada4887e2e49b889">
+        <dex dex="D:\huyuit\Android\workspace\Streaming\app\build\intermediates\pre-dexed\debug\classes-e94ec7e24135eed8faa82d6b98c9b278d9191091.jar" />
+    </item>
+    <item
+        jar="C:\Users\Doanh\.gradle\caches\modules-2\files-2.1\com.mcxiaoke.volley\library\1.0.15\9093a362d18c5f81f58e49d86dece57d9b6e1cb7\library-1.0.15.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9093a362d18c5f81f58e49d86dece57d9b6e1cb7">
+        <dex dex="D:\huyuit\Android\workspace\Streaming\app\build\intermediates\pre-dexed\debug\library-1.0.15-d8102feaf4fd30be0b2dcbcabd1197c68a513e9c.jar" />
+    </item>
+    <item
+        jar="D:\huyuit\Android\workspace\Streaming\app\libs\YouTubeAndroidPlayerApi.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="78b8f6e37921559ed21c1fae1f30f9f713494db8">
+        <dex dex="D:\huyuit\Android\workspace\Streaming\app\build\intermediates\pre-dexed\debug\YouTubeAndroidPlayerApi-b79b203e69a81330e26e6071a04c6b6fc1403caa.jar" />
+    </item>
+    <item
+        jar="D:\huyuit\Android\workspace\Streaming\app\build\intermediates\exploded-aar\com.getbase\floatingactionbutton\1.9.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f2b8a750df2a5d485d0c40b379b44371c5e6d98d">
+        <dex dex="D:\huyuit\Android\workspace\Streaming\app\build\intermediates\pre-dexed\debug\classes-d4f4cc8c6c2add6f8bd07b2f67297279df67a27b.jar" />
+    </item>
+    <item
+        jar="D:\huyuit\Android\workspace\Streaming\app\build\intermediates\exploded-aar\it.neokree\MaterialTabs\0.11\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fef6aa7ea0bb2d6adf10965d0a5bb8e353517bff">
+        <dex dex="D:\huyuit\Android\workspace\Streaming\app\build\intermediates\pre-dexed\debug\classes-4f20a03e017ad414c1843dd81ba230632fb6ac64.jar" />
+    </item>
+    <item
+        jar="D:\huyuit\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="D:\huyuit\Android\workspace\Streaming\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1-21363cb16aeafb951fbb6c504e98d1009f3fb8f8.jar" />
+    </item>
+    <item
+        jar="D:\huyuit\Android\workspace\Streaming\app\build\intermediates\exploded-aar\com.github.navasmdc\MaterialDesign\1.4\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="87405405e403de68f4057757b8a2e8de02bd65d0">
+        <dex dex="D:\huyuit\Android\workspace\Streaming\app\build\intermediates\pre-dexed\debug\classes-2762076ac12338e0c280bc135573198771bbec8b.jar" />
+    </item>
+    <item
+        jar="D:\huyuit\Android\workspace\Streaming\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="D:\huyuit\Android\workspace\Streaming\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-344aab1ccb77de8ed47b3a34eaa13f4afb63428b.jar" />
+    </item>
+    <item
+        jar="D:\huyuit\Android\workspace\Streaming\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="D:\huyuit\Android\workspace\Streaming\app\build\intermediates\pre-dexed\debug\classes-c5a6282afcc6fbf0787ff7d3e568ee5d0d130a09.jar" />
+    </item>
+    <item
+        jar="D:\huyuit\Android\workspace\Streaming\app\build\intermediates\exploded-aar\me.neavo\vitamio\4.2.2\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="42758c720605ffd5916f008ae3cbdee5617afbd3">
+        <dex dex="D:\huyuit\Android\workspace\Streaming\app\build\intermediates\pre-dexed\debug\classes-9b4cf35b176bb93eeff8765d22825c8b18112f95.jar" />
+    </item>
+    <item
+        jar="D:\huyuit\Android\workspace\Streaming\app\build\intermediates\exploded-aar\com.github.markushi\android-ui\1.2\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="96436aef5f48b09aca1e0183dfcd7782aa580bd6">
+        <dex dex="D:\huyuit\Android\workspace\Streaming\app\build\intermediates\pre-dexed\debug\classes-9e440ebe1f0d98312d84a4e78be3052aac17595d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Doanh\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="D:\huyuit\Android\workspace\Streaming\app\build\intermediates\pre-dexed\debug\library-2.4.0-c1cf007143b525192b97056a0eff0d3a02ec5a12.jar" />
+    </item>
+    <item
+        jar="C:\Users\Doanh\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.3.0\1b355f73402020c5a0dcca58affc3ec3dfeabac1\okio-1.3.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1b355f73402020c5a0dcca58affc3ec3dfeabac1">
+        <dex dex="D:\huyuit\Android\workspace\Streaming\app\build\intermediates\pre-dexed\debug\okio-1.3.0-8623a153880ef42b008989d1abce5b2a55aa8e4c.jar" />
+    </item>
+
+</items>

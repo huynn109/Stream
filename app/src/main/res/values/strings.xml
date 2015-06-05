@@ -1,0 +1,110 @@
+<resources>
+    <string name="app_name">Streaming Demo</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="nav_item_home">Home</string>
+    <string name="nav_item_stream">Stream</string>
+    <string name="nav_item_chat">Chat</string>
+    <string name="nav_item_clip">Clip</string>
+    <string name="nav_item_friends">Friends</string>
+    <string name="nav_item_notifications">Messages</string>
+    <string name="nav_item_stranger_chat">Stranger chat</string>
+    <string name="nav_item_logout">Logout</string>
+
+    <!-- navigation drawer item labels  -->
+    <string-array name="nav_drawer_labels">
+        <item>@string/nav_item_home</item>
+        <item>@string/nav_item_stream</item>
+        <item>@string/nav_item_chat</item>
+        <item>@string/nav_item_clip</item>
+        <item>@string/nav_item_friends</item>
+        <item>@string/nav_item_notifications</item>
+        <item>@string/nav_item_stranger_chat</item>
+        <item>@string/nav_item_logout</item>
+    </string-array>
+
+    <!-- Keep them in order as the titles are in -->
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_home_grey600_24dp</item>
+        <item>@drawable/ic_store_grey600_24dp</item>
+        <item>@drawable/ic_send_grey600_24dp</item>
+        <item>@drawable/ic_store_grey600_24dp</item>
+        <item>@drawable/ic_send_grey600_24dp</item>
+        <item>@drawable/ic_store_grey600_24dp</item>
+        <item>@drawable/ic_send_grey600_24dp</item>
+        <item>@drawable/ic_store_grey600_24dp</item>
+    </array>
+
+    <string name="title_messages">Messages</string>
+    <string name="title_friends">Friends</string>
+    <string name="title_home">Home</string>
+    <string name="title_stream">Stream</string>
+    <string name="title_stranger_chat">Stranger chat</string>
+
+    <string name="title_activity_login">LoginActivity</string>
+    <!-- Main activity -->
+    <string name="msg_error_logout">Logout error</string>
+    <!-- Login page -->
+    <string name="btn_refresh">Try again</string>
+    <string name="hint_phone">Phone</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_link_to_register">Not a member? Sign up now.</string>
+    <string name="btn_link_to_login">Already registred! Login Me.</string>
+    <string name="welcome">Welcome</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="name">Fullname</string>
+    <string name="error_msg">Phone or Password invalid</string>
+    <string name="required_msg">Please enter the credentials</string>
+    <string name="btn_touch_refresh">Please again</string>
+
+    <!-- Clip fragment -->
+    <string name="error_player">There was an error initializing the YouTubePlayer (%1$s)</string>
+
+    <!-- Home fragment -->
+    <string name="btn_send">Send</string>
+    <string name="hint_chat">Say something...</string>
+    <string name="tv_name">System</string>
+    <string name="list_row_room">Room</string>
+    <string name="list_row_watching">Watching</string>
+    <string-array name="tabs">
+        <item>Clip</item>
+        <item>Stream</item>
+        <item>Chat</item>
+    </string-array>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank stranger chat fragment</string>
+    <string name="title_activity_stream">Stream</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_stream_full">StreamFullActivity</string>
+
+    <string name="title_activity_stream_fullscreen">StreamFullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <!-- messages -->
+    <string name="message_welcome">Welcome to Socket.IO Chat –</string>
+    <plurals name="message_participants">
+        <item quantity="one">there\'s %d participant</item>
+        <item quantity="other">there are %d participants</item>
+    </plurals>
+    <string name="message_user_joined">%s joined</string>
+    <string name="message_user_left">%s left</string>
+    <string name="user_action_typing">is typing</string>
+    <string name="error_connect">Failed to connect</string>
+    <string name="stranger">Stranger</string>
+    <string name="you">You</string>
+    <string name="search_stranger">Search</string>
+    <string name="title_activity_youtube_play">YoutubePlayActivity</string>
+    <string name="title_activity_test">test</string>
+    <string name="title_activity_youtube_player">YoutubePlayerActivity</string>
+    <!-- Clip fragment -->
+    <string name="count_view">view</string>
+    <string name="category">Category</string>
+</resources>

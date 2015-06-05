@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/list_row_selector"
+    android:padding="8dp">
+
+    <!-- Thumbnail Image -->
+    <com.android.volley.toolbox.NetworkImageView
+        android:id="@+id/img_clip"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_marginRight="8dp" />
+
+    <!-- Clip Title -->
+    <TextView
+        android:id="@+id/txt_name_clip"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/img_clip"
+        android:layout_toRightOf="@+id/img_clip"
+        android:textSize="@dimen/user_name"
+        android:maxLines="2"
+        android:textStyle="bold"
+        android:ellipsize="end"/>
+
+    <!-- Cate -->
+    <TextView
+        android:id="@+id/txt_cate_clip"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/txt_name_clip"
+        android:layout_marginTop="1dip"
+        android:layout_toRightOf="@+id/img_clip"
+        android:textSize="@dimen/room" />
+
+    <TextView
+        android:id="@+id/txt_count_view_clip"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:textColor="@color/year"
+        android:textSize="@dimen/year" />
+
+</RelativeLayout>
